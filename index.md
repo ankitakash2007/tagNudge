@@ -1,8 +1,8 @@
-# Please Message Me on Teams When Tagging Me in ADO
+# Please Message Me on Teams When Tagging Me in Anywhere
 
 ## TL;DR
 
-When tagging someone in an ADO work item, it’s important to follow up with a message on Teams. This ensures your colleague sees your request promptly and reduces the risk of important work being missed. Don’t assume a tag alone will suffice; communication should be both efficient and noticeable to keep work flowing smoothly.
+When tagging someone in anywhere be it an ADO work item, PR etc., it’s important to follow up with a message on Teams. This ensures your colleague sees your request promptly and reduces the risk of important work being missed. Don’t assume a tag alone will suffice; communication should be both efficient and noticeable to keep work flowing smoothly.
 
 ## ADO Tag Etiquette
 
